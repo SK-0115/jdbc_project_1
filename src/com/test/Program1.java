@@ -8,7 +8,7 @@ public class Program1 {
         System.out.print("Enter a number: ");
         double number = scanner.nextDouble();
 
-        double square = number * number; // or Math.pow(number, 2)
+        double square = number * number; 
 
         System.out.println("The square of " + number + " is: " + square);
     }
